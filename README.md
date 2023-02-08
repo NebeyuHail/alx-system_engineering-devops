@@ -1,0 +1,1 @@
+About git bash projects

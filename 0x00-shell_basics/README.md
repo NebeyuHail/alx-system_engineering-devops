@@ -1,2 +1,3 @@
-pwd - script print current working directory
-ls - list all files in the current directory
+pwd - print the absolute path of current directory
+ls - print all files in the current directory
+cd - changes working directory to user home directory

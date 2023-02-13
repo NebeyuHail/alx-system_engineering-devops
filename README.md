@@ -1,1 +1,1 @@
-About git bash projects
+shell redirection
